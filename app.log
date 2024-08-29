@@ -1,0 +1,25 @@
+2024/08/28 08:52:27 Hashed Password: $2a$10$0u6f2els8VleplHVP20lVu17.Fv6n.Av4u5fyO8RUjZHZccy3OblS
+2024/08/28 08:52:27 Provided Password: mesika
+2024/08/28 08:56:39 Hashed Password: $2a$10$0u6f2els8VleplHVP20lVu17.Fv6n.Av4u5fyO8RUjZHZccy3OblS
+2024/08/28 08:56:39 Provided Password: mesika
+2024/08/28 08:56:39 Hash Length: 60
+2024/08/28 08:56:39 Provided Password Length: 6
+2024/08/28 08:59:06 Hashed Password during Registration: $2a$10$Mg12sEpmLW69K0ZKBadsrecGvIwhasV/vcI/MjcUleeqebJNZ0oIS
+2024/08/28 08:59:48 Hashed Password: $2a$10$Mg12sEpmLW69K0ZKBadsrecGvIwhasV/vcI/MjcUleeqebJNZ0oIS
+2024/08/28 08:59:48 Provided Password: mesika
+2024/08/28 08:59:48 Hash Length: 60
+2024/08/28 08:59:48 Provided Password Length: 6
+2024/08/28 09:12:34 Hashed Password: $2a$10$Mg12sEpmLW69K0ZKBadsrecGvIwhasV/vcI/MjcUleeqebJNZ0oIS
+2024/08/28 09:12:34 Provided Password: mesika
+2024/08/28 09:12:34 Hash Length: 60
+2024/08/28 09:12:34 Provided Password Length: 6
+2024/08/28 09:12:34 Comparison: false
+2024/08/28 09:18:09 Hashed Password during Registration: $2a$10$mKrhwJxPNoC1kggZ7GBGR.IQRQnamjFj7qkL04x4N.VUoR6LQOzfS
+2024/08/28 11:41:18 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
+2024/08/28 11:46:23 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
+2024/08/28 11:52:11 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
+2024/08/28 12:02:56 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
+2024/08/28 12:06:37 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
+2024/08/28 16:22:54 Error fetching trial price ID: sql: Scan error on column index 0, name "stripe_trial_price_id": converting NULL to string is unsupported
+2024/08/28 16:30:34 Stripe price ID not found for plan: trial
+2024/08/28 17:01:00 Fetching subscription for userID: 4e6d0baa-22fb-4f72-8a72-3d136218252c
